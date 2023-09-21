@@ -1,0 +1,39 @@
+.first {
+    background-color: black;
+    }
+.second {
+        background-color: blue;
+    }
+.third {
+        background-color: azure;
+    }
+.fourth{
+        background-color: burlywood;
+    }
+.fifth {
+        background-color: blueviolet;
+    }
+.sixth {
+    background-color:cornflowerblue;
+}
+h1 {
+        color:orange;
+    }
+#table {
+        color:yellow;
+    }
+ .header {
+    color:red;
+    font-size:40px;
+    font-family:fantasy;
+    text-align: center;
+ }
+ .header:hover {
+    color:skyblue;
+ }
+ .main {
+    text-align: center;
+    font-size:35px;
+}
+background-color:black;
+ 
